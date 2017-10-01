@@ -21,6 +21,6 @@ name = [...kittens, 'Broom']
 return name
 }
 function prependKitten(name){
-  name = ['K', ...kittens]
+  name = ['Arnold', ...kittens]
   return name
 }
