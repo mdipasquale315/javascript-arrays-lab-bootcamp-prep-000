@@ -1,4 +1,5 @@
 const app = "I don't do much."
-function destrucivelyAppendKitten(name){
+function destructivelyAppendKitten(name){
   return name.push
 }
+function 
