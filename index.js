@@ -12,3 +12,7 @@ function destructivelyRemoveLastKitten(name){
   name = kittens.pop()
   return name
 }
+function destructivelyRemoveFirstKitten(name){
+  name = kittens.shift()
+  return name
+}
